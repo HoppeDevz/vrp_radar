@@ -1,2 +1,5 @@
 # vrp_radar
-system of radar for fiveM application
+sistema de radares polícias para a plataforma fiveM
+
+# Permissões
+As permissões são configuradas no client.lua
